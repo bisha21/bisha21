@@ -116,19 +116,6 @@ const bishal: Developer = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=ecommerce-platform&theme=tokyonight&hide_border=true)](https://github.com/bisha21/ecommerce-platform)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=task-management-app&theme=tokyonight&hide_border=true)](https://github.com/bisha21/task-management-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=real-time-chat&theme=tokyonight&hide_border=true)](https://github.com/bisha21/real-time-chat)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=weather-dashboard&theme=tokyonight&hide_border=true)](https://github.com/bisha21/weather-dashboard)
-
-</div>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50"> Let's Connect & Collaborate
 
 <div align="center">
