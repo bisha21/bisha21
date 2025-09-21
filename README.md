@@ -36,13 +36,6 @@ const bishal: Developer = {
   
   currentFocus: "Building scalable web applications",
   funFact: "I debug with console.log and I'm proud of it! 😄",
-  
-  workingOn: {
-    learning: ["System Design", "Microservices", "DevOps"],
-    building: ["SaaS Platform", "Open Source Tools"],
-    exploring: ["AI/ML Integration", "Web3 Technologies"]
-  },
-  
   askMeAbout: [
     "Web Development", "System Architecture", 
     "Performance Optimization", "Team Leadership"
