@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bishal%20Timilsina&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Pokhara%2C%20Nepal&descSize=18&descAlignY=58" width="100%" />
+# Bishal Timilsina
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=940&height=70&lines=Hi+there!+I'm+Bishal+Timilsina+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+NestJS;Mobile+Apps+with+React+Native+%F0%9F%93%B1;Docker+%2B+AWS+Deployments+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
@@ -103,6 +103,10 @@ React · Next.js · TypeScript · NestJS · React Native · Docker · AWS deploy
 
 ### DevOps & Cloud
 <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,linux" /></a>
+
+### Messaging & Architecture
+<a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka,rabbitmq" /></a>
+<a href="https://github.com/donnemartin/system-design-primer"><img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge&logo=diagramsdotnet&logoColor=white" /></a>
 
 ### Tools
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma,postman,vscode" /></a>
