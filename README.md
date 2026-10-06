@@ -24,45 +24,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=00D9FF&vCenter=true&multiline=true&width=380&height=110&lines=%24+whoami;Bishal+Timilsina+%E2%80%94+Full-Stack+Developer;%24+pwd;Pokhara%2C+Nepal+%F0%9F%87%B3%F0%9F%87%B5;%24+cat+now.txt;Building+scalable+web+%26+mobile+apps" alt="Terminal intro" />
-
-<details>
-<summary><b>🧱 Stack</b> (click to open)</summary>
-<br>
-
-| Area | Tools |
-|---|---|
-| Frontend | React, Next.js, TypeScript, Tailwind |
-| Mobile | React Native |
-| Backend | Node.js, NestJS, Express |
-| Database | MongoDB, PostgreSQL, MySQL |
-| DevOps | Docker, AWS, Git |
-
-</details>
-
-<details>
-<summary><b>🔨 Currently working on</b></summary>
-<br>
-
-Scalable web and mobile apps.
-
-</details>
-
-<details>
-<summary><b>📚 Currently learning</b></summary>
-<br>
-
-AWS (EC2, S3, CloudFront) · Docker Compose · System Design
-
-</details>
-
-<details>
-<summary><b>😄 Fun fact</b></summary>
-<br>
-
-I debug with `console.log` and I'm proud of it.
-
-</details>
+<img src="./assets/bishal-code.svg" alt="bishal.ts" width="100%" />
 
 > 💡 **Tip:** Click the sections below to expand them.
 
