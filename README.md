@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bishal%20Timilsina&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Pokhara%2C%20Nepal&descSize=18&descAlignY=58" width="100%" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=940&height=70&lines=Hi+there!+I'm+Bishal+Timilsina+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+NestJS;Mobile+Apps+with+React+Native+%F0%9F%93%B1;Docker+%2B+AWS+Deployments+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <br>
@@ -14,11 +16,9 @@
 ![Followers](https://img.shields.io/github/followers/bisha21?style=for-the-badge&logo=github&color=blue)
 ![Stars](https://img.shields.io/github/stars/bisha21?style=for-the-badge&logo=github&color=yellow)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" width="100%" />
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -78,13 +78,13 @@ React · Next.js · TypeScript · NestJS · React Native · Docker · AWS deploy
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Click any icon to visit its docs 👇**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=40&lines=Click+any+icon+to+visit+its+docs" alt="Click any icon" />
 
 ### Frontend
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" /></a>
@@ -124,34 +124,29 @@ React · Next.js · TypeScript · NestJS · React Native · Docker · AWS deploy
 | Docker | ![](https://img.shields.io/badge/-Intermediate-blue?style=flat-square) |
 | AWS Deployment | ![](https://img.shields.io/badge/-Learning-orange?style=flat-square) |
 
-*Adjust these levels to match your real experience.*
-
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🚀 Featured Projects
 
-<!-- Replace REPO_NAME_1 etc. with your real repository names -->
 <div align="center">
 
-<a href="https://github.com/bisha21/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/bisha21/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=40&lines=Things+I've+built+and+shipped" alt="Things I've built" />
 
-<a href="https://github.com/bisha21/REPO_NAME_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/bisha21/REPO_NAME_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
-</a>
+<br>
+
+| Project | Description | Link |
+|---|---|---|
+| **Vyaapaarly** | Multi-tenant e-commerce and storefront platform | [![Live](https://img.shields.io/badge/Live-vyaapaarly.com-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vyaapaarly.com/) |
+| **LokSewa Setu** | Exam preparation platform | [![Live](https://img.shields.io/badge/Live-web.loksewasetu.com-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web.loksewasetu.com/) |
+| **Chartly** | Real-time chat application | [![Live](https://img.shields.io/badge/Live-Chartly-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://chatapp-sigma-wine.vercel.app/) |
+| **Indoor Cricket Booking** | Slot booking for indoor cricket venues | [![Live](https://img.shields.io/badge/Live-Ravenhall-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ravenhall-frontend-eight.vercel.app/) |
+| **Hostel Management** | Hostel administration and management system | [![Live](https://img.shields.io/badge/Live-Hostel_Management-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://hostel-management-jiiv.vercel.app/) |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📈 GitHub Analytics
 
@@ -176,7 +171,7 @@ React · Next.js · TypeScript · NestJS · React Native · Docker · AWS deploy
 </div>
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -194,30 +189,15 @@ React · Next.js · TypeScript · NestJS · React Native · Docker · AWS deploy
 
 </div>
 
----
-
-## 😄 Dev Joke of the Moment
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
-
-*Refresh the page for a new one.*
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-```
-💼 Open to: Full-time roles, Consulting, Freelance
-🎯 Interested in: Full-stack, Mobile, Cloud/DevOps, Mentoring
-🌍 Remote friendly
-💬 Let's talk: Product ideas, technical challenges, collaboration
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=Open+to+full-time+roles%2C+consulting+and+freelance;Full-stack+%7C+Mobile+%7C+Cloud%2FDevOps+%7C+Mentoring;Remote+friendly+%E2%80%94+let's+talk+product+ideas" alt="Open to work" />
+
+<br>
 
 <a href="https://www.bishal-timilsina.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:timilsinab22bi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -235,6 +215,6 @@ React · Next.js · TypeScript · NestJS · React Native · Docker · AWS deploy
 
 ### Thanks for visiting! Let's build something great together 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
