@@ -1,163 +1,240 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Bishal+Timilsina+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+TypeScript+%7C)</div>
-
 <div align="center">
-  
-  [![Portfolio](https://protfolio-amber-kappa.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishal-timilsina)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timilsinab22bi@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bishal_t)
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1500&color=00D9FF&center=true&vCenter=true&width=940&height=70&lines=Hi+there!+I'm+Bishal+Timilsina+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+NestJS;Mobile+Apps+with+React+Native+%F0%9F%93%B1;Docker+%2B+AWS+Deployments+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="280"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bishal-timilsina.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishal-timilsina)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timilsinab22bi@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bishal_t)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hunterlashib)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bisha21&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/bisha21?style=for-the-badge&logo=github&color=blue)
+![Stars](https://img.shields.io/github/stars/bisha21?style=for-the-badge&logo=github&color=yellow)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" width="100%" />
+
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
 const bishal: Developer = {
-  location: "Nepal 🇳🇵",
-  currentRole: "Full-Stack Developer",
-  company: "Building Amazing Products",
-  
-  code: {
+  location: "Pokhara, Nepal 🇳🇵",
+  role: "Full-Stack Developer",
+
+  stack: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend: ["Node.js", "NestJS", "Express"],
-    database: ["MongoDB", "PostgreSQL","Mysql"],
-    tools: ["Git", "Figma", "Postman", "VSCode"]
+    mobile:   ["React Native"],
+    backend:  ["Node.js", "NestJS", "Express"],
+    database: ["MongoDB", "PostgreSQL", "MySQL"],
+    devops:   ["Docker", "AWS", "Git"],
   },
-  
-  currentFocus: "Building scalable web applications",
-  funFact: "I debug with console.log and I'm proud of it! 😄",
-  askMeAbout: [
-    "Web Development", "System Architecture", 
-    "Performance Optimization", "Team Leadership"
-  ]
+
+  currentlyWorkingOn: "Scalable web & mobile apps",
+  currentlyLearning:  ["AWS (EC2, S3, CloudFront)", "Docker Compose", "System Design"],
+  funFact: "I debug with console.log and I'm proud of it 😄",
 };
 ```
 
-<div align="center">
+> 💡 **Tip:** Click the sections below to expand them.
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Quick Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=bisha21&style=for-the-badge&color=brightgreen)
-![Years Badge](https://badges.pufler.dev/years/bisha21?style=for-the-badge&color=blue&logo=github)
-![Repos Badge](https://badges.pufler.dev/repos/bisha21?style=for-the-badge&color=red&logo=github)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/bisha21?style=for-the-badge&color=orange&logo=github)
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> Tech Arsenal
-
-<div align="center">
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/213844281-2665de0e-6e95-4023-8a91-de7f29b3aaeb.gif" width="50"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bisha21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisha21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisha21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bisha21&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="50"> Let's Connect & Collaborate
-
-<div align="center">
-
-### <img src="https://user-images.githubusercontent.com/74038190/216656195-39e64a34-d0d2-4b62-974c-6cb9aa719a0d.gif" width="30"> Open for Opportunities
-
-```
-💼 Available for: Full-time positions, Consulting, Freelance projects
-🎯 Interested in: Team Leadership, System Architecture, Mentoring
-🌍 Remote friendly: Available worldwide
-💬 Let's discuss: Innovative projects, Technical challenges, Collaboration
-```
-
+<details>
+<summary><b>🎯 What I can help with</b></summary>
 <br>
 
-### 📫 Reach Out
+- 🌐 Building full-stack apps with the MERN stack and NestJS
+- 📱 Cross-platform mobile apps with React Native
+- 🐳 Containerizing apps with Docker
+- ☁️ Deploying to AWS (EC2, S3, CloudFront, RDS)
+- ⚡ Performance optimization and clean architecture
 
-<a href="mailto:timilsinab22bi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</details>
+
+<details>
+<summary><b>🌱 What I'm learning right now</b></summary>
+<br>
+
+- ☁️ AWS services: EC2, S3, RDS, IAM, CloudFront
+- 🐳 Docker multi-stage builds and Docker Compose
+- 🔁 CI/CD with GitHub Actions
+- 🏗️ System design and architecture patterns
+
+</details>
+
+<details>
+<summary><b>💬 Ask me about</b></summary>
+<br>
+
+React · Next.js · TypeScript · NestJS · React Native · Docker · AWS deployment · MongoDB vs PostgreSQL
+
+</details>
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Click any icon to visit its docs 👇**
+
+### Frontend
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" /></a>
+
+### Mobile
+<a href="https://reactnative.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+&nbsp;<a href="https://reactnative.dev"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://expo.dev"><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /></a>
+
+### Backend
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" /></a>
+<a href="https://socket.io"><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" /></a>
+
+### Databases
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /></a>
+
+### DevOps & Cloud
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,linux" /></a>
+
+### Tools
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma,postman,vscode" /></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
+
+</div>
+
+<details>
+<summary><b>📊 Skill proficiency (click to expand)</b></summary>
+<br>
+
+| Skill | Level |
+|---|---|
+| React / Next.js | ![](https://img.shields.io/badge/-Advanced-brightgreen?style=flat-square) |
+| TypeScript | ![](https://img.shields.io/badge/-Advanced-brightgreen?style=flat-square) |
+| Node.js / Express / NestJS | ![](https://img.shields.io/badge/-Intermediate-blue?style=flat-square) |
+| MongoDB / PostgreSQL / MySQL | ![](https://img.shields.io/badge/-Intermediate-blue?style=flat-square) |
+| React Native | ![](https://img.shields.io/badge/-Intermediate-blue?style=flat-square) |
+| Docker | ![](https://img.shields.io/badge/-Intermediate-blue?style=flat-square) |
+| AWS Deployment | ![](https://img.shields.io/badge/-Learning-orange?style=flat-square) |
+
+*Adjust these levels to match your real experience.*
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace REPO_NAME_1 etc. with your real repository names -->
+<div align="center">
+
+<a href="https://github.com/bisha21/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://linkedin.com/in/bishal-timilsina">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/bisha21/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://twitter.com/bishal_t">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
+<a href="https://github.com/bisha21/REPO_NAME_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://instagram.com/hunterlashib">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://github.com/bisha21/REPO_NAME_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bisha21&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
 </a>
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bisha21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisha21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=bisha21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bisha21&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bisha21&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+</details>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--
+  To enable: add the Platane/snk workflow (.github/workflows/snake.yml) to this
+  repo. It generates the "output" branch with these two files.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bisha21/bisha21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bisha21/bisha21/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/bisha21/bisha21/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 😄 Dev Joke of the Moment
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+
+*Refresh the page for a new one.*
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+```
+💼 Open to: Full-time roles, Consulting, Freelance
+🎯 Interested in: Full-stack, Mobile, Cloud/DevOps, Mentoring
+🌍 Remote friendly
+💬 Let's talk: Product ideas, technical challenges, collaboration
+```
+
+<a href="https://www.bishal-timilsina.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="mailto:timilsinab22bi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/bishal-timilsina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/bishal_t"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/hunterlashib"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br><br>
-
-### 💖 Support My Work
 
 <a href="https://www.buymeacoffee.com/bishal" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
 </a>
 
-</div>
+<br><br>
 
----
+### Thanks for visiting! Let's build something great together 🚀
 
-<div align="center">
-  
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"> Thanks for visiting! Let's build something amazing together! <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
-<br>
-
